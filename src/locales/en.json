@@ -1,0 +1,26 @@
+{
+    "title": "Choose your address.",
+    "validation": {
+      "addressRequired": "Address is required",
+      "cityRequired": "City is required",
+      "countryRequired": "Country is required",
+      "regionRequired": "Region is required",
+      "postalCodeRequired": "Postal Code is required"
+    },
+    "addressLabel": "Address",
+    "cityLabel": "City",
+    "countryLabel": "Country",
+    "addressLine2Label": "Address Line 2 (optional)",
+    "postalCodeLabel": "Postal Code",
+    "addressPlaceholder": "Enter address",
+    "cityPlaceholder": "Enter city",
+    "countryPlaceholder": "Enter country",
+    "addressLine2Placeholder": "Apt/ Suite / Bldg / Unit",
+    "postalCodePlaceholder": "Enter postal code",
+    "submitButton": "Submit",
+    "resetButton": "Reset",
+    "greenPopupText": "To adjust your location, simply move the marker to the desired position.",
+    "redPopupText": "Your marker is too far from the original coordinates. Please move the marker closer to your actual location.",
+    "onBoundsExceededMessage": "Marker out of bounds"
+  }
+  

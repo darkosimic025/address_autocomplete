@@ -1,0 +1,45 @@
+@keyframes slide-down-fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.costum-popup .mapboxgl-popup-content {
+  border-radius: 10px;
+  border: none !important;
+  outline: none !important;
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px,
+    rgba(233, 230, 230, 0.12) 0px -12px 30px,
+    rgba(222, 221, 221, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  animation: slide-down-fade-in 0.4s ease-out;
+}
+
+.costum-popup-green .mapboxgl-popup-content {
+  background-color: #7dded8f3;
+  color: rgb(51, 51, 51);
+  font-weight: bold;
+}
+
+.costum-popup-green .mapboxgl-popup-tip {
+  border-top-color: #7dded8f3;
+  outline: none !important;
+  animation: slide-down-fade-in 0.4s ease-out;
+}
+
+.costum-popup-red .mapboxgl-popup-content {
+  background-color: #f86a63c4;
+  color: rgb(51, 51, 51);
+  font-weight: bold;
+}
+
+.costum-popup-red .mapboxgl-popup-tip {
+  border-top-color: #f86a63c4;
+  outline: none !important;
+  animation: slide-down-fade-in 0.4s ease-out;
+}
