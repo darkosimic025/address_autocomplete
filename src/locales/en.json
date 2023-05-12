@@ -15,7 +15,7 @@
     "addressPlaceholder": "Enter address",
     "cityPlaceholder": "Enter city",
     "countryPlaceholder": "Enter country",
-    "addressLine2Placeholder": "Apt/ Suite / Bldg / Unit",
+    "addressLine2Placeholder": "Apt / Suite / Bldg / Unit",
     "postalCodePlaceholder": "Enter postal code",
     "submitButton": "Submit",
     "resetButton": "Reset",
