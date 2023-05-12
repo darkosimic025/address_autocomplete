@@ -1,5 +1,7 @@
 # Address Autocomplete
 
+![App Screenshot](app_preview/app_preview.png)
+
 ## Problem Description and Solution
 
 My task was to develop an address autocomplete feature, a crucial component for online forms or checkouts, which suggests potential addresses to users as they type. This feature plays a significant role in enhancing the user experience by minimizing typing errors and providing accurate address data for businesses.
